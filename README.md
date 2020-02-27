@@ -3,6 +3,14 @@
 
 Laravel packages allow access to all the features that framework offers to its host application, including routing, migrations, tests, views, and numerous other useful features.
 
+## Installation
+
+- Clone the repo
+- Create the database 
+- Setup the .env file
+- Run the project
+
+
 ## Related videos
 
 - **[Laravel Nested](https://youtu.be/9PEjGW2EvRI)**
