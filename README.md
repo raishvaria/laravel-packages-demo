@@ -1,7 +1,7 @@
 
 ## About Laravel Packages
 
-Laravel packages allow access to all the features that framework offers to its host application, including routing, migrations, tests, views, and numerous other useful features. Another important advantage of a package is the Don't Repeat Yourself (DRY) principle.
+Laravel packages allow access to all the features that framework offers to its host application, including routing, migrations, tests, views, and numerous other useful features.
 
 ## Related videos
 
