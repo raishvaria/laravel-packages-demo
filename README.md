@@ -16,3 +16,4 @@ Laravel packages allow access to all the features that framework offers to its h
 - **[Laravel Nested](https://youtu.be/9PEjGW2EvRI)**
 - **[Laravel Medialibrary](https://youtu.be/_bTp74a1iB4)**
 - **[Laravel Socialite](https://youtu.be/61uhb2UBuBQ)**
+- **[Laravel Permission](https://youtu.be/tNEb27SXcZ8)** (use *laravel-permission* branch)
