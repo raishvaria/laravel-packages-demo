@@ -70,8 +70,9 @@ class RegisterController extends Controller
             'password' => Hash::make($data['password']),
         ]);
 
-
-        $user->addMedia($data['profile'])->toMediaCollection('profile');
+        if(in_array('profile',array_keys($data))){
+            $user->addMedia($data['profile'])->toMediaCollection('profile');
+        }
 
         return $user;
 

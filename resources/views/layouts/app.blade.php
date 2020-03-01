@@ -64,6 +64,15 @@
                                     <a class="dropdown-item" href="{{ route('category.index') }}" >
                                         {{ __('Category') }}
                                     </a>
+                                    <a class="dropdown-item" href="{{ route('roles.index') }}" >
+                                        {{ __('Role') }}
+                                    </a>
+                                    <a class="dropdown-item" href="{{ route('permissions.index') }}" >
+                                        {{ __('Permision') }}
+                                    </a>
+                                    <a class="dropdown-item" href="{{ route('posts.index') }}" >
+                                        {{ __('Post') }}
+                                    </a>
 
                                     <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                         @csrf
